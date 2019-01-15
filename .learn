@@ -7,6 +7,6 @@ languages:
 type:
   - video
   - lab
-  (NameError)
-  1+"1"
+  
+
   
