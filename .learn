@@ -7,4 +7,4 @@ languages:
 type:
   - video
   - lab
-ruby lib/a_name_error.rub
+  
